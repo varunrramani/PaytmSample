@@ -18,11 +18,11 @@
     <string name="sample_transaction_amount">1</string>
     <string name="sample_channel_id">WAP</string>
     <string name="sample_industry_type_id">Retail</string>
-    <string name="sample_website">MirrawonlineWAP</string>
+    <string name="sample_website">..</string>
     <string name="sample_theme">merchant</string>
     <string name="sample_cust_email_id">abc@gmail.com</string>
     <string name="sample_cust_mobile_no">1234567890</string>
-    <string name="sample_merchant_id_staging">Mirraw74320319293052</string>
+    <string name="sample_merchant_id_staging">..</string>
     <string name="sample_checksum_generation_url">https://pguat.paytm.com/merchant-chksum/ChecksumGenerator</string>
     <string name="sample_checksum_verification_url">https://pguat.paytm.com/merchant-chksum/ValidateChksum</string>
     <!--<string name="app_name">SampleMerchantApp</string>
