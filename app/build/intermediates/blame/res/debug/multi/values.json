@@ -1,0 +1,366 @@
+[
+    {
+        "outputFile": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 52,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 78,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 82,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 53,
+                    "endOffset": 374
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endColumn": 59,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 54,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 494,
+                    "endColumn": 64,
+                    "endOffset": 554
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 559,
+                    "endColumn": 54,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endColumn": 48,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 663,
+                    "endColumn": 49,
+                    "endOffset": 708
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 713,
+                    "endColumn": 116,
+                    "endOffset": 825
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 830,
+                    "endColumn": 115,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 946,
+                    "endColumn": 62,
+                    "endOffset": 1004
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1009,
+                    "endColumn": 60,
+                    "endOffset": 1065
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1291,
+                        "endColumn": 60,
+                        "endOffset": 1347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1070,
+                    "endColumn": 56,
+                    "endOffset": 1122
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1127,
+                    "endColumn": 58,
+                    "endOffset": 1181
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1186,
+                    "endColumn": 75,
+                    "endOffset": 1257
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1352,
+                        "endColumn": 75,
+                        "endOffset": 1423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1262,
+                    "endColumn": 49,
+                    "endOffset": 1307
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1312,
+                    "endColumn": 49,
+                    "endOffset": 1357
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1362,
+                    "endColumn": 55,
+                    "endOffset": 1413
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1418,
+                    "endColumn": 58,
+                    "endOffset": 1472
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1119,
+                        "endColumn": 58,
+                        "endOffset": 1173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1477,
+                    "endColumn": 63,
+                    "endOffset": 1536
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1541,
+                    "endColumn": 42,
+                    "endOffset": 1579
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1584,
+                    "endColumn": 68,
+                    "endOffset": 1648
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1653,
+                    "endColumn": 46,
+                    "endOffset": 1695
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1700,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1778
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1783,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1850
+                },
+                "from": {
+                    "file": "/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]

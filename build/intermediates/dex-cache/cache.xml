@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/libs/PGSDK_v1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e105bd26acd5d45143e3dcbe83ae9f1969530619">
+        <dex dex="/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/build/intermediates/pre-dexed/debug/PGSDK_v1.0.1_57acd5bd7ceb81410ff75d94800d48f467f0e91e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nimesh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_8bf4348bede9ab7404e0f2d2bf6c0627b39bbb13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.1_4a727f9b349128f647323c7524af4bd8572dd56a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/nimesh/varun/paytm_sample/SampleMerchantApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_5c68605d14f60753d9414bc9ce586c827c59187c.jar" />
+    </item>
+
+</items>
